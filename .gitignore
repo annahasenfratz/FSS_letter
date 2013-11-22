@@ -1,1 +1,8 @@
-fss.pdf
+*.aux
+*.blg
+*.end
+*Notes.bib
+*.log
+*.swp
+*.pdf
+*.ps
