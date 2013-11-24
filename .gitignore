@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 fss.pdf
 *.aux
 *.bbl
 
+=======
+*.aux
+*.blg
+*.end
+*Notes.bib
+*.log
+*.swp
+*.pdf
+*.ps
+>>>>>>> 818172008a193e1d2df15615a94ae6cdc409b2c4
