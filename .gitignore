@@ -1,6 +1,6 @@
 fss.pdf
 *.aux
-*.bbl
+fss.bbl
 
 =======
 *.aux
