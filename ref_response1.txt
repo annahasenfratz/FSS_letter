@@ -1,0 +1,18 @@
+We thank both referees for their extensive comments and constructive criticism of our work.  We are confident that this response and the associated changes to our manuscript will address their concerns so that our letter may be published in Physical Review Letters.
+
+
++++
+Brainstorming:
+Without getting into a very detailed explanation of our eigenvalue analyses, we can say:
+The first referee's main objection underscores the importance of our work, by highlighting the difficulty of reliably extracting critical exponents for strongly-coupled systems.  This issue is certainly of broad interest, and our work over the past several years leading to this letter provides important progress in the state of the art.
+
+Also, eigenvalues vs. FSS is just a ~2.5sigma disagreement,
+(0.32-0.235)/sqrt(0.03^2+0.015^2)=2.53,
+not a disastrous incompatibility, though certainly motivation for further future work aiming at better reconciliation.
+
+While we have changed the text to specify 12f in the two sentences quoted by the second referee, we emphasize that we do expect our results to apply generically to strongly-coupled systems with slowly-running couplings.  At the very least, it can no longer be assumed that corrections to scaling in such systems have negligible effects.
++++
+
+
+Sincerely yours,
+Anqi Cheng, Anna Hasenfratz, Yuzhi Liu, Gregory Petropoulos and David Schaich
