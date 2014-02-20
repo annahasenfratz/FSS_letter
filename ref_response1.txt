@@ -1,18 +1,19 @@
-We thank both referees for their extensive comments and constructive criticism of our work.  We are confident that this response and the associated changes to our manuscript will address their concerns so that our letter may be published in Physical Review Letters.
+We thank the referees for their thorough comments on and constructive criticism of our work.  We hope that this response and the corresponding modifications to our manuscript will address their concerns so that our letter may be published in Physical Review Letters.
 
+Both referees appear satisfied with our approach and results.  Referee A's main objection to publication in Physical Review Letters is that the subject is not of sufficiently broad interest.
 
-+++
-Brainstorming:
-Without getting into a very detailed explanation of our eigenvalue analyses, we can say:
-The first referee's main objection underscores the importance of our work, by highlighting the difficulty of reliably extracting critical exponents for strongly-coupled systems.  This issue is certainly of broad interest, and our work over the past several years leading to this letter provides important progress in the state of the art.
+Conveniently, this referee's previous remark serves to suggest why this is not the case: the referee notes that our ``pilot study'' of the Dirac operator eigenvalue spectrum in Ref. 7 led to a value for the 12-flavor SU(3) mass anomalous dimension that was clearly inconsistent with our subsequent eigenspectrum analysis in Ref. 9.  (The current ~2.5sigma tension between our eigenspectrum and finite-size scaling results certainly motivates further future work, but is not disastrous.)  This is not the appropriate forum for a lengthy discussion of eigenspectrum analyses, especially since we have already shown in Ref. 9 how the single gauge coupling and limited spectral range we considered in Ref. 7 led to ``apparently very precise but actually incorrect results.''
 
-Also, eigenvalues vs. FSS is just a ~2.5sigma disagreement,
-(0.32-0.235)/sqrt(0.03^2+0.015^2)=2.53,
-not a disastrous incompatibility, though certainly motivation for further future work aiming at better reconciliation.
+The important aspect of this history is that it demonstrates the difficulty of reliably determining critical exponents in strongly-coupled 4d systems.  Focusing on the specific case of 12-flavor SU(3) gauge theory, our work reveals how much care must be taken to obtain robust results -- for example, by exploring a range of energy scales, by investigating a variety of coupling values, by considering corrections to finite size scaling.  Since we expect that similar issues may arise more generically in other strongly-coupled systems, this work is of broad interest well beyond the particular example of the 12-flavor model.
 
-While we have changed the text to specify 12f in the two sentences quoted by the second referee, we emphasize that we do expect our results to apply generically to strongly-coupled systems with slowly-running couplings.  At the very least, it can no longer be assumed that corrections to scaling in such systems have negligible effects.
-+++
+In passing, Referee A also states, "The fitting experiments do not seem very systematic," and further suggests that we should have analyzed a larger number of quantities.  As described in the text, our analysis proceeds systematically by considering
+1) A single observable at a single gauge coupling with a single lattice action
+2) A single observable at multiple gauge couplings with a single lattice action
+3) A single observable at multiple gauge couplings with multiple lattice actions
+4) Multiple observables at multiple gauge couplings with a single lattice action
+The three observables we consider are numerically the cleanest, and suffice to demonstrate both the issue and its resolution.
 
+The two sentences quoted by Referee B were intended by us to be statements about our 12-flavor results specifically, and we have revised the text to make this clear.  That said, we wish to reiterate our expectation that similar issues may arise more generically in strongly-coupled systems with slowly evolving couplings.  At the very least, it can no longer be assumed that corrections to scaling in such systems have negligible effects.  Our investigations are thus relevant well beyond the particular 12-flavor system we focus on, and therefore appropriate for publication in Physical Review Letters.
 
 Sincerely yours,
 Anqi Cheng, Anna Hasenfratz, Yuzhi Liu, Gregory Petropoulos and David Schaich
